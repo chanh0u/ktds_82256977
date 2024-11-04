@@ -11,7 +11,7 @@ spec:
       - path: /
         backend:
           service:
-            name: prod-my-82256977
+            name: my-82256977
             port:
               number: 8080
         pathType: Prefix
